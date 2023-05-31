@@ -32,5 +32,4 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-mccullum&hide=TeX&layout=compact)
 
 
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=B-mccullum%2FB-mccullum&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=B-mccullum%2FB-mccullum)
