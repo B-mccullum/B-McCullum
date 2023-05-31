@@ -1,14 +1,17 @@
-### Hi there 👋
+Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+I am a DevOps Engineer with expertise in IT, specifically in AWS, Microsoft Azure, Microsoft 365, Linux, Python, Cybersecurity, Analysis, Infrastructure as Code, and Terraform. 
+I have nearly 10 years of experience as an Air Force Veteran, and I hold a Bachelor's Degree in Nursing with experience working in hospital and clinical settings. 
+Additionally, I possess skills in Healthcare Information Technology (HIT), Medication Therapy Management Systems, and Electronic Health Records (EHR).
+
+Currently, I am pursuing an additional Bachelor's degree in Cloud Computing with a concentration in Microsoft Azure and AWS Cloud from Western Governor's University, expecting to graduate in 2024. 
+My ultimate goal is to leverage my diverse background and technical skills to contribute immediately and make a positive impact within an organization.
 
 Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Brandon%20McCullum-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-mccullum-4504b7161/)](https://www.linkedin.com/in/brandon-mccullum-4504b7161/)
+[![Medium Badge](https://img.shields.io/badge/Brandon%20McCullum-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@Bmccullum)](https://medium.com/@Bmccullum)
+[![Outlook Badge](https://img.shields.io/badge/-Brandon.McCullum@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:Brandon.mccullum@outlook.com)](mailto:Brandon.McCullum@outlook.com)
 
 ## ⚡ Technologies
 
