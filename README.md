@@ -3,8 +3,7 @@ Hi there 👋
 I am a DevOps Engineer with expertise in IT, specifically in AWS, Microsoft Azure, Microsoft 365, Linux, Python, Cybersecurity, Analysis, Infrastructure as Code, and Terraform. 
 I have nearly 10 years of experience as an Air Force Veteran, and I hold a Bachelor's Degree in Nursing with experience working in hospital and clinical settings. 
 Additionally, I possess skills in Healthcare Information Technology (HIT), Medication Therapy Management Systems, and Electronic Health Records (EHR).
-
-Currently, I am pursuing an additional Bachelor's degree in Cloud Computing with a concentration in Microsoft Azure and AWS Cloud from Western Governor's University, expecting to graduate in 2024. 
+ 
 My ultimate goal is to leverage my diverse background and technical skills to contribute immediately and make a positive impact within an organization.
 
 Find out more about me & feel free to connect with me here:
