@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a DevOps Engineer with expertise in IT, specifically in AWS, Microsoft Azure, Linux, Python, Cybersecurity, CI/CD, and Terraform. 
+I am a DevOps Engineer with expertise in AWS, Microsoft Azure, Linux, Python, Cybersecurity, CI/CD, and Terraform. 
 I have nearly 10 years of experience as an Air Force Veteran, and I hold a Bachelor's Degree in Nursing with experience working in hospital and clinical settings. 
 Additionally, I possess skills in Healthcare Information Technology (HIT), Medication Therapy Management Systems, and Electronic Health Records (EHR).
  
