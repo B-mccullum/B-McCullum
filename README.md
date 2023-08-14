@@ -1,10 +1,7 @@
 Hi there 👋
 
-I am a DevOps Engineer with expertise in AWS, Microsoft Azure, Linux, Python, Cybersecurity, CI/CD, and Terraform. 
-I have nearly 10 years of experience as an Air Force Veteran, and I hold a Bachelor's Degree in Nursing with experience working in hospital and clinical settings. 
-Additionally, I possess skills in Healthcare Information Technology (HIT), Medication Therapy Management Systems, and Electronic Health Records (EHR).
+A passionate and enthusiastic Junior DevOps Engineer with hands-on experience in Amazon Web Services (AWS), including key services like Lambda, S3, ELB, RDS, API Gateway, and AWS CloudFront. Proficient in the application of Cloud Development, Infrastructure, Visual Studio code, cloud 9, Formation & Computing, and comfortable working in a Linux OS environment. Practical understanding of infrastructure as code (IaC) tools, primarily Terraform, and containerization technologies such as Docker and Kubernetes. Proficient in Python programming, with a strong ability to leverage Shell Scripting for automation tasks. Experience in establishing CI/CD pipelines using GitHub CI/CD and adept at leveraging Cloud9 AWS for testing and development. Demonstrated ability to solve problems, automate processes, continuously improve systems, and collaborate cross-functionally.
  
-My ultimate goal is to leverage my diverse background and technical skills to contribute immediately and make a positive impact within an organization.
 
 Find out more about me & feel free to connect with me here:
 
